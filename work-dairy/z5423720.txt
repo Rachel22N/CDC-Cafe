@@ -1,0 +1,29 @@
+Week 1
+Formed and named our group. Created the Jira Site. Decided on the topic with other group members. Discussed what the basic functions will be implemented in our project.
+
+Week 2
+Selected Scrum Master. Selected Product Owner. Done some brainstorming on what the novel functions will be. Read through and discussed the specifications of writing the proposal with other group members. Completed the division of labor for proposal writing tasks.
+
+Week 3
+Joined GitHub Classroom. Discussed some issues concerning UI design with other group members. Raised several questions to the tutor for clarification. Finished writing the proposal.
+
+Week 4
+Made changes to our sprint 1 scope (under tutor's permission). Learned basic Git command line operations with other group members during online meeting. Implemented manager page interface in collaboration with Yanzhuo Yu.
+
+Week 5
+Perfected work done during Sprint 1. Prepared demo A. Concluded Sprint 1 and wrote Retrospective A.
+
+Week 6
+Revised design of manager page features according to Speint 1 feedback.
+
+Week 7
+Implemented backend APIs for frontend card dragging features and fixed several related bugs.
+
+Week 8
+Perfected work done during Sprint 2. Prepared demo B. Concluded Sprint 2 and wrote Retrospective B.
+
+Week 9
+Independently implemented authorized login credentials and protected routing.
+
+Week 10
+Prepared final demo. Wrote user manual. Improved code quality for final submission.

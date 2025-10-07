@@ -1,0 +1,10 @@
+Week 1: Determine the topic and select the goals of the project.
+Week 2: Design the basic interface of the website and the functions that need to be implemented.
+Week 3: Draw the interface and flow diagrams and storyboards for user stories. 
+week 4: The manager web page has been initially completed.
+week 5: Added functions include: Add dishes, delete dishes, and edit dishes.
+week 6: Added functions include: Add categories, delete categories, and edit categories.
+week 7: Added functions include: Upload pictures and delete pictures.
+week 8: Added functions include: Drag and drop dishes to change their order.
+week 9: Added functions include: Drag and drop categories to change their order.
+week 10: Adjust the page layout so that the page can adapt to the pad and mobile terminals.

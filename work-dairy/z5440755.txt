@@ -1,0 +1,29 @@
+Week 1
+Join a team of 6 members within me. Decide on who will be the scrum master. Decide the team name is CDC.  Register team on Moodle. Register Jira and create the scrum project. Decide the project topic is P4.
+
+Week 2
+Invite the mentor to Jira and invite all group members to Jira. Accept invite and linked properly zID with Github account in the Github Organisation. Put the work diary in Github folder. Start working on the proposal.
+
+Week 3
+Complete the proposal. Decide the work in every sprint. Put the product backlog in Jira. Start working on the project. Update the work diary.
+
+Week 4
+Complete the tasks of sprint 1. Complete the code for backend of customer's parts including choose table number, order or remove dishes and cart functions.
+
+Week 5
+Complete all tasks of sprint 1. Add bill function in cart and add bill table in database. Test the functions of web application and prove it can work normally.
+
+Week 6
+Complete kitchenview function which can send all dishes of bills to kitchen page. Test the function will not influence the existing functions.
+
+Week 7
+Update the structure of some tables of database to work better. Complete the all functions of kitchen part. 
+
+Week 8
+Test all functions of sprint 2 and modify some errors to prove that all functions can work normally. 
+
+Week 9
+Brainstorm with teammates about the novel function and determine add cancel function. In order to add cancel function, update some tables in the database and complete the backend part of cancel function.
+
+Week 10
+Test all functions of web application. Fix some bugs and optimise some existing functions. Complete the presentation of the project.

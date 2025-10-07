@@ -1,0 +1,19 @@
+week1:
+Joined group CDC.Selected Scrum Master.Created the Jira site.Discussed with other team members,brainstormed and finally decided on the topic.
+week2:
+as a team we chose to use Python for backend and Javascript for frontend.I started to wrote proposal of our project.
+week3:
+together with Junjie Yu and Chenye Xie,I finished the work of the user stories and sprints section of the proposal.
+Specifically,user stories of manager and kitchen staff and non-functional requirements of the system.
+week4:
+I have established a local database and added information on the four categories of initially designed menu, as well as the title, description, ingredients, categories, and cost of the menu items, to the database
+week5:
+Tested the functions required in sprint1,prepared for the demoA,held the retrospective meeting A and wrote the retrospective report
+week7:
+started wrote the project report
+week8
+Tested the functions required in sprint2,prepared for the demoB,held the retrospective meeting B and wrote the retrospective report
+week9
+Tested all the funcionalities required and finished the project report
+week10 
+updated the images of the menu items and prepared for the final demo 

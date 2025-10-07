@@ -1,0 +1,19 @@
+# archives
+*.zip
+
+# Python / Flask
+__pycache__/
+*.pyc
+venv/
+instance/
+.env
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store

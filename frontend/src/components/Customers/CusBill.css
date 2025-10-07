@@ -1,0 +1,65 @@
+.background {
+  background-image: url('./bgc.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.content-container {
+  margin: auto;
+  padding-top: 80px;
+  box-sizing: border-box;
+  height: calc(100vh - 80px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.close-button {
+  background-color: #fce4ec;
+  color: black;
+}
+
+.closeButton {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+}
+
+.paymentButton {
+  display: block;
+  margin: 10px auto;
+  width: 90%;
+  border: 1px solid black;
+  color: black;
+}
+
+.cashSection {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cashButton {
+  display: inline-block;
+  margin-top: 10px;
+  border: 1px solid black;
+  color: black;
+}
+
+/* 如果需要，可以添加一个分割线的样式 */
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+hr {
+  border-top-color: #fc6094;
+}

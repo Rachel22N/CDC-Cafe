@@ -1,0 +1,20 @@
+Week 1
+Joined the Group CDC. Selected Scrum Master. Created the Jira Site. Done some brainstorming on what the topic will be.
+Week 2
+Designed the website page view, and discussed the functions that need to be implemented. 
+Week 3
+Drawn the interface and flow diagrams and finished user stories.
+Week 4
+Creat some frontend components, for custumer's pages, and some draft page for kitchen staff and service staff.
+Week 5
+Link Custumer's Page, from menupage to Cart to Bill. And ready for Demo A.
+Week 6
+Did some debug work, and ready for Kitchen's Page.
+Week 7
+Kitchen's page finish, and do some update for customer's page.
+Week 8
+Waiter's page finish, link it with Custumer's page and Kitchen's Page.
+Week 9
+Did some debug work, try to add the 'cancel' function.
+Week 10
+Update some button and view. Did some test for the total work. Made code expression more concise.

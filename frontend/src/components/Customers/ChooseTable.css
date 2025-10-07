@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #fce4ec;
+  height: 80px;
+}
+
+.background-table {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(./bgc.png);
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.TableNum, .PeopleNum {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-basis: 50%;
+}
+
+.TableBtn{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  box-sizing: border-box;
+  flex: 0 0 50%;
+  text-align: center;
+}
+
+.PeopleNum {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button,
+.button-selected {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 10px;
+  font-size: 14px;
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+  /* transition: background-color 0.3s, color 0.3s; */
+  transition: all 0.3s ease-in-out;
+}
+
+.button-selected {
+  background-color: black;
+  color: white;
+}
+
+.button:hover {
+  background-color: #fce4ec;
+  color: black;
+}
+
+.confirm-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .TableNum,
+  .PeopleNum {
+    flex-basis: 100%;
+    flex: 1 0 100%;
+    width: 300px;
+    /* border: 1px solid white; */
+    margin: 6px;
+    padding: 10px 30px;
+  }
+
+  .TableBtn {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .TableNum h1,
+  .PeopleNum h1 {
+    text-transform: uppercase;
+    font-size: 1em;
+  }
+
+  .TableNum {
+    order: 1;
+  }
+
+  .PeopleNum {
+    order: 2;
+  }
+}

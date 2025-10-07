@@ -1,0 +1,21 @@
+wee 1
+Discuss and decide the topic. Consider about the choose of database. 
+week 2
+learning about the link between python and sql. 
+week3
+write the proposal.
+week 4
+learning and writing the code about the api.
+designing and creating the database for out system.
+week 5
+wrting the code about: 1. uploading the mysql to front-end. 2. add and delete catogory. 3. login system. 4. add and delete dishes. 5. edit dishes
+week6
+update the sql database.
+week7
+finish the waitercall function in database and backend.
+week8
+discuss and decide the cancal function.
+week9
+help with the cancel function's algorithm.
+week10
+prepare the presentation and summorize the sql. Writing the final report.
