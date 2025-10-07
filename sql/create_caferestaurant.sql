@@ -1,5 +1,3 @@
-DROP DATABASE IF EXISTS CafeRestaurant;
-
 -- Create database
 CREATE DATABASE IF NOT EXISTS CafeRestaurant;
 USE CafeRestaurant;
